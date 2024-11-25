@@ -15,8 +15,6 @@ To demonstrate this project I have created a cloud formation template that provi
 - [One-Click DNS Deployment](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?templateURL=https://roble-files.s3.amazonaws.com/Hodan-Project/R53-failover.yml&stackName=HDN-Domain-Host)
 
 
-##### Further details to this project visit [my blog](https://roble.uk/amazon-route-53/)
 
-Join me on my next project. I am going to build phone system architecture using AWS cloud solutions and 3CX VoIP system integrated together which will result in reliable, secure and widely accessible throughout the network.
 
 I hope that was informative and I would like to thank you. 
